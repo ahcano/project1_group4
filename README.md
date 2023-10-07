@@ -1,4 +1,4 @@
-# Project Title: Analyzing GREEN and NON-GREEN indices performances to forecast future Endeavors, projecting where to invest to yield the best ROI.
+# Project Title: Green Investing Analysis
 
 
 ## Team Members
@@ -9,7 +9,7 @@
 
 ## Project description/outline
 Team 4 will create a portfolio of the top 50 stocks (by market cap) from the NASDAQ® Clean Edge® Green Energy Index and analyze their performance versus the NASDAQ® Clean Edge® Green Energy overall performance, and versus the S&P 500’s performance. 
-The analysis will include the top 50 stocks and how they contributed to the index’s movement. 
+The analysis will include the top 50 stocks and how they contributed to the index’s movement. Simulations are included, to project an investment strategy to yield the best ROI.
 
 ## Research questions to answer
 
