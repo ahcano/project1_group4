@@ -1,10 +1,10 @@
 # Project Title: Analyzing the QGREEN index to forecast the index’s future Endeavors.
 
 ## Team Members
-Ryan Judd
-Ana Cano
-Andrew Gopan
-Nasir Farah
+* Ryan Judd
+* Ana Cano
+* Andrew Gopan
+* Nasir Farah
 
 ## Project description/outline
 Team 4 will create a portfolio of QGREEN index and analyze the performance of the top achieving Green/Environmental/Positive Impact stocks. And the team will project the path of the QGREEN index.
