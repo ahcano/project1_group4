@@ -1,4 +1,5 @@
-# Project Title: Analyzing the QGREEN index to forecast the index’s future Endeavors.
+# Project Title: Analyzing GREEN and NON-GREEN indices performances to forecast future Endeavors, projecting where to invest to yield the best ROI.
+
 
 ## Team Members
 * Ryan Judd
@@ -7,8 +8,8 @@
 * Nasir Farah
 
 ## Project description/outline
-Team 4 will create a portfolio of QGREEN index and analyze the performance of the top achieving Green/Environmental/Positive Impact stocks. And the team will project the path of the QGREEN index.
-Team will choose the top green stocks in industries that we believe will make a large impact in the world. The presentation will include the top performing green company analysis, and how they  contributed to the index’s movement. Team will also analyze the green index and compare it to a major traditional index.
+Team 4 will create a portfolio of the top 50 stocks (by market cap) from the NASDAQ® Clean Edge® Green Energy Index and analyze their performance versus the NASDAQ® Clean Edge® Green Energy overall performance, and versus the S&P 500’s performance. 
+The analysis will include the top 50 stocks and how they contributed to the index’s movement. 
 
 ## Research questions to answer
 
