@@ -19,3 +19,8 @@ The analysis will include the top 50 stocks and how they contributed to the inde
 4.  	Comparison of returns to a Traditional index
 5.  	Type of investors are investing
 
+## Examples
+
+### Box Plot of Green Portfolio, divided into 3 stock groups: Resources, Renewable and Manufacturing/Other
+
+<img width="1501" alt="Screenshot 2023-10-16 205223" src="https://github.com/ahcano/project1_group4/assets/141194281/c7e5bb91-396a-4255-a81d-bae19ecbe432">
