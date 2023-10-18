@@ -29,8 +29,9 @@ The analysis will include the top 50 stocks and how they contributed to the inde
 
 
 ## Risk Analysis
-![box_plot_showing_risk_of_the_portfolio](https://github.com/ahcano/project1_group4/assets/141194281/e67ec66f-8ec8-4954-be1a-b812279db66a)
 
+## Cumulative Returns
+![box_plot_showing_risk_of_the_portfolio](https://github.com/ahcano/project1_group4/assets/141194281/e67ec66f-8ec8-4954-be1a-b812279db66a)
 
 ## Rolling Standard Deviations
 ![rolling_standard_deviation](https://github.com/ahcano/project1_group4/assets/141194281/b27a367a-8127-428f-8c54-ff97ce0128a2)
