@@ -22,7 +22,6 @@ The analysis will include the top 50 stocks and how they contributed to the inde
 ## Examples
 
 ### Box Plot of Green Portfolio, divided into 3 stock groups: Resources, Renewable and Manufacturing/Other
-
 <img width="1501" alt="Screenshot 2023-10-16 205223" src="https://github.com/ahcano/project1_group4/assets/141194281/c7e5bb91-396a-4255-a81d-bae19ecbe432">
 ![plot_cumulative_returns_for_three_portfolios](https://github.com/ahcano/project1_group4/assets/141194281/3e2dd3b1-a653-4811-bcdc-8851c24c99cb)
 
